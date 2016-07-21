@@ -19,6 +19,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //测试提交
+    private void function1(){
+
+    }
+
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         return super.onTouchEvent(event);
