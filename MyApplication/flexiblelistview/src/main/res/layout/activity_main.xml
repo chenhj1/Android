@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.chenhj1.flexiblelistview.FlexibleListView
+        android:id="@+id/flexible_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"></com.example.chenhj1.flexiblelistview.FlexibleListView>
+
+    <include
+        android:id="@+id/custom_action_bar"
+        layout="@layout/action_bar_layout"/>
+</FrameLayout>
