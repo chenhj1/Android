@@ -1,1 +1,1 @@
-include ':app', ':AnimationListView', ':touchgesture', ':singletouchgesture', ':webview', ':flexiblelistview', ':parallaxviewpager', ':photoview', ':objectanimation', ':touchevent', ':androidview'
+include ':app', ':AnimationListView', ':touchgesture', ':singletouchgesture', ':webview', ':flexiblelistview', ':parallaxviewpager', ':photoview', ':objectanimation', ':touchevent', ':androidview', ':shimmertextview'
