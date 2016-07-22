@@ -17,10 +17,16 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        funciton2();
     }
 
     //测试提交
     private void function1(){
+
+    }
+
+    //公司测试提交2
+    private void funciton2(){
 
     }
 
