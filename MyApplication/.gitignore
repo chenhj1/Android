@@ -1,12 +1,3 @@
-*.iml
-.gradle/
-/local.properties
-/.idea/
-.DS_Store
-/build
-/captures
-vcs.xml
-
 /bin
 /gen
 /proguard
@@ -20,5 +11,4 @@ vcs.xml
 build/
 .navigation/
 local.properties
-
 
